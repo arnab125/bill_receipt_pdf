@@ -50,15 +50,10 @@ $ python main.py
 ## Notes
 - The receipt is generated in A4 size.
 - The receipt is generated in PDF format.
-- 
 
 
 
 
 
 ## Sample Pdf Generated
-<embed src="https://github.com/arnab125/bill_receipt_pdf/blob/3706bd5d6964b3cd84ca0ee38574e01c91a8f6b8/bill.pdf" width="500" height="375" type='application/pdf'>
-
-
-
-
+<embed src="https://github.com/arnab125/bill_receipt_pdf/blob/main/bill.pdf" width="500" height="375" type='application/pdf'>
