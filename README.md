@@ -56,5 +56,5 @@ $ python main.py
 
 
 ## Sample Pdf Generated
-<iframe src="https://github.com/arnab125/bill_receipt_pdf/blob/main/bill.pdf" style="width:100%; height:1000px;"></iframe>
 
+![Sample PDF](https://github.com/arnab125/bill_receipt_pdf/blob/main/bill.pdf)
